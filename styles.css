@@ -1,0 +1,9 @@
+p {
+  display: block;
+  width: 400px;
+  margin: 25px auto;
+  font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+}
+a:visited {
+ color: blue
+}
