@@ -12,3 +12,11 @@ p {
 a:visited {
  color: blue
 }
+
+d {
+    display: block;
+    width: 400px;
+    margin: 25px auto;
+    font: 15px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+    color: rgb(0, 0, 0)
+  }
